@@ -1,8 +1,6 @@
 ---
 layout: recipe
-title: Drinks test
+title: Drink test
 categories: [All recipes, Drinks]
 ---
-# Drinks/test.md
-
-Drinks/test.md
+TODO: Add recipe here
