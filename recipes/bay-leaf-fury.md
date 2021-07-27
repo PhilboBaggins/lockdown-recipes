@@ -20,5 +20,5 @@ The name of this drink was generated with [this service](https://thingnames.com/
 1. Add gin to blender
 2. Pre-blend gin for 10 seconds
 3. Add bay leaf
-4. Blend for further 30 seconds
+4. Blend for further 20 seconds
 5. Serve
