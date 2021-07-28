@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% for category in site.category-list %}
-### {{ category | capitalize | replace:'-',' ' }}
+<h2 id="{{ category }}">{{ category | capitalize | replace:'-',' ' }}</h2>
 <ul>
     {% for page in site.pages %}
         {% if page.categories contains category %}
