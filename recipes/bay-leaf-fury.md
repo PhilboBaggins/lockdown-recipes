@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Bay Leaf Fury
-categories: [All recipes, Drinks, Inspired by name, Gin based]
+categories: [all-recipes, drinks, inspired-by-name, gin-based]
 ---
 The name of this drink was generated with [this service](https://thingnames.com/drink-names). The drink was inspired by the name ... it probably won't be very good.
 
