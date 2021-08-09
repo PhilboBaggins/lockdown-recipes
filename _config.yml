@@ -1,2 +1,12 @@
 theme: jekyll-theme-merlot
-category-list: [all-recipes, inspired-by-name, drinks, air-fryer, gin-based, roast, beef, brisket, bourbon]
+category-list: [
+    all-recipes,
+    inspired-by-name,
+    drinks,
+    air-fryer,
+    gin,
+    roast,
+    beef,
+    brisket,
+    bourbon
+]
