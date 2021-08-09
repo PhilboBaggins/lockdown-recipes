@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "My brisket needs a name" brisket
+title: My-Brisket-Needs-A-Name Brisket
 categories: [all-recipes, roast, beef, brisket, bourbon]
 ---
 ## Ingredients
