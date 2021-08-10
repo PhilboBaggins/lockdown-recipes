@@ -3,6 +3,8 @@ layout: recipe
 title: My-Brisket-Needs-A-Name Brisket
 categories: [all-recipes, roast, beef, brisket, bourbon]
 ---
+![brisket.jpg](brisket.jpg)
+
 ## Ingredients
 
 * Brisket
