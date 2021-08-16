@@ -12,6 +12,8 @@ layout: default
 </ul>
 
 <!-- List recipes by category -->
+{% assign categoryListSorted = site.category-list | sort %}
+{% for category in categoryListSorted %}
 <h2 id="{{ category }}">{{ category | capitalize | replace:'-',' ' }}</h2>
 <ul>
     {% for page in site.pages %}
