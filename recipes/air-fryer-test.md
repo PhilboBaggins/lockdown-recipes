@@ -1,6 +1,6 @@
 ---
 layout: recipe
 title: AirFryer test
-categories: [all-recipes, air-fryer]
+categories: [air-fryer]
 ---
 TODO: Add recipe here

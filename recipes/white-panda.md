@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: White Panda
-categories: [all-recipes, drinks, gurvansh]
+categories: [drinks, gurvansh]
 ---
 The name of this drink was inspired by it's alcohol content. It looks quite tame but is very deadly.
 
